@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Budding Coders or Coding Buddies (one of the two)
+author: Cheri Haggard
+email: cheri@MATHmaniaRobotics.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Coding for kids (of all ages) but our classes feature kids from 8-18.  We use free internet resources that kids around the world can access: Khan Academy, code.org, and scratch.mit.edu
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  gonzocher
+facebook_username: mathmaniarobotics
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-leap-day
+theme: minima
